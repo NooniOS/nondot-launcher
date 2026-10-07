@@ -6,6 +6,22 @@ A full-screen application launcher for KDE Plasma 6 with a dot-matrix, Nothing-p
 
 > Unofficial. It is **not** made by, affiliated with, or endorsed by Nothing Technology Limited. "Nothing" is a trademark of its owner; the name "NonDot" only describes the look.
 
+## Screenshots
+
+![NonDot Launcher screenshot 1](screenshots/01.png)
+
+![NonDot Launcher screenshot 2](screenshots/02.png)
+
+![NonDot Launcher screenshot 3](screenshots/03.png)
+
+![NonDot Launcher screenshot 4](screenshots/04.png)
+
+![NonDot Launcher screenshot 5](screenshots/05.png)
+
+![NonDot Launcher screenshot 6](screenshots/06.png)
+
+![NonDot Launcher screenshot 7](screenshots/07.png)
+
 ## Features
 
 - Opens full screen on the monitor you are using (click on the widget, or the launcher shortcut).
@@ -86,6 +102,8 @@ GPL-2.0-or-later. See `LICENSE`. Icons are original SVG drawings included in the
 Lanzador de aplicaciones a pantalla completa para KDE Plasma 6 con aspecto de puntos inspirado en los teléfonos Nothing: burbujas negras translúcidas, bordes finos, acento rojo y fuentes de puntos opcionales.
 
 > No oficial. **No** está hecho, afiliado ni respaldado por Nothing Technology Limited. "Nothing" es marca de su titular; el nombre "NonDot" solo describe el estilo.
+
+Capturas de pantalla: ver [Screenshots](#screenshots) más arriba.
 
 ## Características
 
