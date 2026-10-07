@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.kde.org/standards/kcfg/1.0
+      http://www.kde.org/standards/kcfg/1.0/kcfg.xsd" >
+  <kcfgfile name=""/>
+
+  <group name="General">
+    <entry name="bgOpacityPct" type="Int">
+      <label>Opacidad del fondo de pantalla completa (0-100).</label>
+      <default>75</default>
+      <min>0</min>
+      <max>100</max>
+    </entry>
+    <entry name="bubbleOpacityPct" type="Int">
+      <label>Opacidad de las cuadrículas/burbujas (0-100).</label>
+      <default>60</default>
+      <min>0</min>
+      <max>100</max>
+    </entry>
+    <entry name="bubbleColor" type="Color">
+      <label>Color de las cuadrículas (también las del reproductor).</label>
+      <default>0,0,0</default>
+    </entry>
+    <entry name="bgColor" type="Color">
+      <label>Color del fondo.</label>
+      <default>0,0,0</default>
+    </entry>
+    <entry name="accentColor" type="Color">
+      <label>Color de acento de las apps activas.</label>
+      <default>215,25,33</default>
+    </entry>
+    <entry name="use24Hour" type="Bool">
+      <label>Mostrar la hora en formato de 24 horas.</label>
+      <default>false</default>
+    </entry>
+    <entry name="dateStyle" type="Int">
+      <label>Formato de fecha: 0 = con letras, 1 = dd/mm/aaaa.</label>
+      <default>0</default>
+    </entry>
+    <entry name="showTaskbar" type="Bool">
+      <label>Mostrar la barra de apps activas.</label>
+      <default>true</default>
+    </entry>
+    <entry name="showSeconds" type="Bool">
+      <label>Mostrar los segundos en el reloj.</label>
+      <default>true</default>
+    </entry>
+    <entry name="rightPanel" type="Int">
+      <label>Zona derecha: 0 = reproductor de medios, 1 = tarjetas de categorías, 2 = nada.</label>
+      <default>0</default>
+      <min>0</min>
+      <max>2</max>
+    </entry>
+    <entry name="cardColor" type="Color">
+      <label>Color de las tarjetas de categorías.</label>
+      <default>255,255,255</default>
+    </entry>
+    <entry name="cardOpacityPct" type="Int">
+      <label>Opacidad de las tarjetas de categorías (0-100).</label>
+      <default>30</default>
+      <min>0</min>
+      <max>100</max>
+    </entry>
+    <entry name="language" type="String">
+      <label>Idioma de la interfaz: en (inglés) o es (español).</label>
+      <default>en</default>
+    </entry>
+  </group>
+
+  <group name="Fonts">
+    <entry name="fontClock" type="String">
+      <label>Fuente de la fecha y la hora (vacío = la incluida).</label>
+      <default></default>
+    </entry>
+    <entry name="fontSearch" type="String">
+      <label>Fuente del buscador (vacío = la incluida).</label>
+      <default></default>
+    </entry>
+    <entry name="fontApps" type="String">
+      <label>Fuente de los nombres de las apps y del menú (vacío = la incluida).</label>
+      <default></default>
+    </entry>
+    <entry name="fontTips" type="String">
+      <label>Fuente de las burbujas de los botones y de la barra de apps activas (vacío = la incluida).</label>
+      <default></default>
+    </entry>
+    <entry name="fontCards" type="String">
+      <label>Fuente de las tarjetas de categorías (vacío = la incluida).</label>
+      <default></default>
+    </entry>
+    <entry name="fontMedia" type="String">
+      <label>Fuente del reproductor de medios (vacío = la incluida).</label>
+      <default></default>
+    </entry>
+  </group>
+
+  <group name="Animations">
+    <entry name="animations" type="Bool">
+      <label>Activar las animaciones (interruptor general).</label>
+      <default>true</default>
+    </entry>
+    <entry name="animFade" type="Bool">
+      <label>Fundido al abrir y cerrar el lanzador.</label>
+      <default>true</default>
+    </entry>
+    <entry name="animClock" type="Bool">
+      <label>Aparición suave de la fecha y la hora.</label>
+      <default>true</default>
+    </entry>
+    <entry name="animTyping" type="Bool">
+      <label>Texto que se escribe en las burbujas de los botones.</label>
+      <default>true</default>
+    </entry>
+    <entry name="animFilter" type="Bool">
+      <label>Transiciones al filtrar apps y al cambiar de vista.</label>
+      <default>true</default>
+    </entry>
+    <entry name="animHover" type="Bool">
+      <label>Efectos al pasar el cursor por los botones.</label>
+      <default>true</default>
+    </entry>
+    <entry name="animCardsMarquee" type="Bool">
+      <label>Nombres largos de las tarjetas: deslizamiento permanente.</label>
+      <default>true</default>
+    </entry>
+    <entry name="marqueeMode" type="Int">
+      <label>Carrusel del nombre y el artista: 0 = quieto, 1 = al pasar el cursor, 2 = siempre.</label>
+      <default>1</default>
+      <min>0</min>
+      <max>2</max>
+    </entry>
+  </group>
+</kcfg>

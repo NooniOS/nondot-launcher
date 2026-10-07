@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="cerrar.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     inkscape:zoom="1.3964844"
+     inkscape:cx="255.64196"
+     inkscape:cy="256"
+     inkscape:window-width="1745"
+     inkscape:window-height="924"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="display:inline;fill:#e6e6e6;stroke-width:1.00541;stroke:#e6e6e6"
+       id="path3"
+       cx="255.35419"
+       cy="256.35419"
+       r="251.35419" />
+    <rect
+       style="fill:#b3b3b3;stroke:#b3b3b3;stroke-width:42.0638;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;paint-order:stroke fill markers"
+       id="rect1-9"
+       width="368.05807"
+       height="42.063782"
+       x="-181.72505"
+       y="-380.29871"
+       transform="matrix(-0.71054623,0.70365052,-0.71054623,-0.70365052,0,0)" />
+    <rect
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:42.0638;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;paint-order:stroke fill markers"
+       id="rect1"
+       width="368.05807"
+       height="47.321754"
+       x="177.86679"
+       y="-21.356874"
+       transform="matrix(0.71054623,0.70365052,-0.71054623,0.70365052,0,0)" />
+    <ellipse
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:42.0628;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;paint-order:stroke fill markers"
+       id="path1"
+       cx="368.93411"
+       cy="367.84677"
+       rx="15.850644"
+       ry="15.696817" />
+  </g>
+</svg>

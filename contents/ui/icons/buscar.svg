@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="buscar.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     inkscape:zoom="1.3964844"
+     inkscape:cx="255.64196"
+     inkscape:cy="256"
+     inkscape:window-width="1745"
+     inkscape:window-height="924"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="display:inline;fill:#e6e6e6;stroke-width:1.00541"
+       id="path3"
+       cx="255.35419"
+       cy="256.35419"
+       r="251.35419" />
+    <circle
+       style="display:inline;fill:none;stroke:#1a1a1a;stroke-width:40;stroke-dasharray:none"
+       id="circle1"
+       cx="220"
+       cy="220"
+       r="100" />
+    <rect
+       style="fill:none;stroke:#1a1a1a;stroke-width:40;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect1"
+       width="136.77203"
+       height="5.0125875"
+       x="417.43869"
+       y="-5.3316097"
+       transform="rotate(47.4)" />
+    <circle
+       style="display:inline;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:40;stroke-dasharray:none"
+       id="circle2"
+       cx="220"
+       cy="220"
+       r="50" />
+  </g>
+</svg>

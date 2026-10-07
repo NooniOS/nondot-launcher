@@ -1,0 +1,28 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "NooniOS"
+            }
+        ],
+        "Category": "Application Launchers",
+        "Description": "Full-screen application launcher with a dot-matrix, Nothing-inspired look: media player, category cards, per-area fonts and English/Spanish interface",
+        "FormFactors": [
+            "desktop"
+        ],
+        "Icon": "start-here-kde",
+        "Id": "io.github.noonios.nondotlauncher",
+        "License": "GPL-2.0-or-later",
+        "Name": "NonDot Launcher",
+        "Version": "1.0.0",
+        "Description[es]": "Lanzador de aplicaciones a pantalla completa con aspecto de puntos inspirado en Nothing: reproductor, tarjetas de categorías, fuentes por zona e interfaz en inglés y español",
+        "Name[es]": "NonDot Launcher",
+        "Website": "https://github.com/NooniOS/nondot-launcher",
+        "BugReportUrl": "https://github.com/NooniOS/nondot-launcher/issues"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-Provides": [
+        "org.kde.plasma.launchermenu"
+    ]
+}

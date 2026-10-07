@@ -1,0 +1,15 @@
+[General]
+count=1
+rules=1
+
+[1]
+Description=NonDot Launcher: hide from taskbar, Alt+Tab and pager
+skippager=true
+skippagerrule=2
+skipswitcher=true
+skipswitcherrule=2
+skiptaskbar=true
+skiptaskbarrule=2
+title=NonDot Launcher
+titlematch=1
+titlematchrule=1
